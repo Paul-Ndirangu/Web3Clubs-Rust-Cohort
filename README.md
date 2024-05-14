@@ -1,1 +1,1 @@
-# Web3Clubs-Rust-Cohort-
+# Web3Clubs-Rust-Cohort
