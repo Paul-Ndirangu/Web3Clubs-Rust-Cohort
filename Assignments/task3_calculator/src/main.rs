@@ -2,8 +2,7 @@ use std::io;
 
 fn main() {
     // Prompt the user to enter the first number
-    println!("Hello, world!");
-
+    println!("Enter the first number:");
     let mut input1 = String::new();
     io::stdin().read_line(&mut input1)
      .expect("Failed to read line");
