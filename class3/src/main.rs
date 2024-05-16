@@ -1,5 +1,5 @@
 mod countries;
-mod animals;
+pub mod animals;
 
 use countries::{print_africa, print_asia};
 use animals::mammal::print_domestic;
