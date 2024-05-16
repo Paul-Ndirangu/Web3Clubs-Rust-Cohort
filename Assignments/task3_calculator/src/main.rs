@@ -20,7 +20,7 @@ fn main() {
 
     // Perform addition
     let addition_result = input1 + input2;
-    println!("Addition: {} + {} = {}", input1, input2 addition_result);
+    println!("Addition: {} + {} = {}", input1, input2, addition_result);
 
     // Perform subtraction
     let subtraction_result = input1 - input2;
