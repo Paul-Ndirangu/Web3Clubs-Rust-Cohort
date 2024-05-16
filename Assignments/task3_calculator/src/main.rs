@@ -20,11 +20,11 @@ fn main() {
 
     // Perform addition
     let addition_result = input1 + input2;
-    println!("Addition: {} + {} = {}", addition_result);
+    println!("Addition: {} + {} = {}", input1, input2 addition_result);
 
     // Perform subtraction
     let subtraction_result = input1 - input2;
-    println!("Subtraction: {} - {} = {}",input1, input2, subtraction_result);
+    println!("Subtraction: {} - {} = {}", input1, input2, subtraction_result);
 
     //Perform multiplication
     let multiplication_result = input1 * input2;
