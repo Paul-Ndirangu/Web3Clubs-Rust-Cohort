@@ -1,2 +1,1 @@
-pub mod mammal;
-pub mod
+pub mod mammals;

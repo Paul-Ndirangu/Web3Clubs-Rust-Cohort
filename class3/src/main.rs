@@ -1,12 +1,9 @@
-mod countries;
-pub mod animals;
+// mod countries;
+mod animals;
 
-use countries::{print_africa, print_asia};
-use animals::mammal::print_domestic;
+use animals::mammals::{print_domestic_animal, print_wild_animal};
 
 fn main() {
-    println!("Hello, world!");
-    print_africa();
-    print_asia();
-    print_domestic();
+    print_domestic_animal();
+    print_wild_animal();
 }
