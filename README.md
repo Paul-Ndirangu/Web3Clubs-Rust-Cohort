@@ -2,4 +2,4 @@
 
 ## Introduction
 
-This repository is part of my learning journey wit Web3Clubs Rust Corhot.
+This repository is part of my learning journey with Web3Clubs Rust Corhot.
