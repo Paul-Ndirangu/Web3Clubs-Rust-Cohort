@@ -48,5 +48,5 @@ fn main() {
 
     // Perform exponentiation
     let exponentiation_result = input1.powf(input2);
-    println!("{} ^ {} = {}", input1, input2, exponentiation_result);
+    println!("Exponentiation: {} ^ {} = {}", input1, input2, exponentiation_result);
 }
