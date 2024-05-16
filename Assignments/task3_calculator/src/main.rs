@@ -28,12 +28,12 @@ fn main() {
 
     //Perform multiplication
     let multiplication_result = input1 * input2;
-    println!("Multiplication: {} * {} = {}",input1, input2, multiplication_result);
+    println!("Multiplication: {} * {} = {}", input1, input2, multiplication_result);
 
     // Perform division
     if input2 != 0.0 {
         let division_result = input1 / input2;
-        println!("Division: {} / {} = {}",input1, input2, division_result);
+        println!("Division: {} / {} = {}", input1, input2, division_result);
     } else {
         println!("Division by zero is not allowed.");
     }
